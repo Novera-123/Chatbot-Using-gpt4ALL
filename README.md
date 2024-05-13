@@ -17,6 +17,8 @@ Before running this application, you need to install the required Python package
 - Gradio
 - GPT4ALL
 
+  ### Link to access the chatbot : https://huggingface.co/spaces/Noveramaaz/Chat-GPT4ALL
+
 
 
 
